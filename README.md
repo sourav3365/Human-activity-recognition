@@ -5,4 +5,4 @@ Predicting the action of human such as walking, sitting, standing etc using Mach
 2. You can check the experiment here --> https://www.youtube.com/watch?v=XOEN9W05_4A
 3. You can download the data set directly from --> https://archive.ics.uci.edu/ml/machine-learning-databases/00240/ 
 4. You can also download the data from the Train and Test data in folder in this repository.
-5. There are three file. The "HAR_creating_dataset" file contain creating and brief data visualization. The "HAR_project_model" files contain implementation of machine learning algorithms on the data set. The "HAR neural network" file contain implemention of neural network on data set. Hyper paramater tuning is also done for all models.
+5. There are three file. The "HAR_creating_dataset" file contain creating and brief data visualization. The "HAR_project_model" files contain training and testing of models using machine learning algorithms on the data set. The "HAR neural network" file contain implemention of neural network on data set. Hyper paramater tuning is also done for all models.
